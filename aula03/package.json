@@ -1,0 +1,19 @@
+{
+  "name": "seminario_fred",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rafael",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
