@@ -69,7 +69,7 @@ function App() {
           value={newName}
           onChange={(e) => setNewName(e.target.value)}
         />
-        <button type="submit" className="add-btn">ADD</button>
+        <button type="submit" className="add-btn">ADicionar</button>
       </form>
 
       <div className="items-list">
